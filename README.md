@@ -15,3 +15,7 @@ These were also designed to use wooden 3/16" dowels from any Home Depot or Lowe'
 After cutting all of the pieces on a laser or other machine, it is time to assemble. For mine, I used super glue to permanently attach parts together. It is easiest to have the assembly open while putting the animal together so that you can see where different parts go.
 
 Testing with a dry fit is encouraged, when all pieces are together, add super glue to the places that hold the dowels to keep everything together. Some areas that act as pivot points require only glue on the outer parts that touch the dowel, otherwise the pivot point won't work because they will all be glued together.
+
+## Blog Post
+
+http://www.alicenspurlin.com/#!Wooden-Menagerie/r2co8/5697f4e30cf20ee37c7553eb
